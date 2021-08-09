@@ -7,7 +7,7 @@ This app allows users to search for videos on YouTube and choose a video to play
 
 > #### Search Page
 
-> ![homepage](https://user-images.githubusercontent.com/75185644/128669036-9b12a64d-8c9a-4adc-bf88-1348c590ec41.PNG))
+> ![homepage](https://user-images.githubusercontent.com/75185644/128669036-9b12a64d-8c9a-4adc-bf88-1348c590ec41.PNG)
 
 ## Functionalities
 
