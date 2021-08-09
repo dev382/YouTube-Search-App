@@ -26,4 +26,4 @@ yarn-error.log*
 
 # config files
 
-src/config/default.json
+/src/config/default.json
