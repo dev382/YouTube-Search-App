@@ -26,7 +26,7 @@ This app allows users to search for videos on YouTube and choose a video to play
 
 ## Getting Started
 
-This app contains a YouTube API Key that has been hidden in a .json configuration file for security purposes, so the app cannot be run with all of its features on your local machine without this variable. However, feel free to clone this repository, then create a .json configuration file within a config folder and add a value to the following variable:
+This app contains a YouTube API Key which has been hidden in a .json configuration file for security purposes, so the app cannot be run with all of its features on your local machine without this variable. However, feel free to clone this repository, then create a .json configuration file within a config folder and add a value to the following variable:
 
 ```
 {
