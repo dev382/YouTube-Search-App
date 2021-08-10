@@ -42,7 +42,7 @@ git clone https://github.com/dev382/YouTube-Search-App.git
 
 ### Install dependencies
 
-In the directory of the folder named YelpCamp, which containing the files of the repositiory, run the following command from your terminal:
+In the directory of the folder named YouTube-Search-App, which contains the files of the repositiory, run the following command from your terminal:
 
 ```sh
 npm install
